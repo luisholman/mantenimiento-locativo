@@ -1,10 +1,4 @@
-/*
-++++++++++++++++++++++++++++++++++++++++++++++++++++++
-AUTHOR : Vijayan PP
-PROJECT : REMSH-MUTLIT PURPOSE LANDING PAGE TEMPLATE
-VERSION : 1.1
-++++++++++++++++++++++++++++++++++++++++++++++++++++++
-*/
+
 
 
 
@@ -70,7 +64,7 @@ body {
 	background-color: #000;
 	overflow-x: hidden;
 	line-height: 1.5;
-        font-family: 'Lato', sans-serif;
+    font-family: 'Lato', sans-serif;
 	text-rendering: optimizeLegibility !important;
 	-webkit-font-smoothing: antialiased !important;
 	
@@ -98,6 +92,7 @@ h5{
 }
 p{
 font-family: 'Open Sans', sans-serif;
+padding-bottom: 2rem;
 }
 
 
@@ -189,10 +184,11 @@ h1, h2, h3, h4, h5, h6,
 /*	BUTTON
 ------------------------------*/
 .btn{
+    width: 100%;
 	padding: 12px 20px;
     margin-bottom: 0px;
     font-size: 14px;
-    font-weight: 900;
+    font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 2px;
     border-radius: 0;
@@ -511,7 +507,7 @@ a.fa.fa-angle-down:hover{
 ------------------------------*/
 .aboutus >.container
 {
-    padding:100px 0px;
+    padding:100px 20px;
 }
 
 ul.aboutList{ margin: 30px 0 0 ;}
@@ -555,7 +551,7 @@ ul.aboutList li span{
 
 .our-services >.container
 {
-    padding:90px 0px;    
+    padding:90px 20px;    
 }
 
 .O-service i
@@ -591,6 +587,7 @@ ul.aboutList li span{
 .O-service
 {
     font-size:0.8em;
+    
 }
 
 /*	PORTFOLIO
@@ -598,7 +595,8 @@ ul.aboutList li span{
 
 .portfolio >.container
 {
-    padding-top:100px;
+    padding:100px 20px;
+    /*padding-top:100px;*/
 }
 
 ol.type li{
@@ -735,7 +733,7 @@ color: #cfcfcf;
  }
 .our-team .overlay > .container
 {
- padding:70px 0px;
+ padding:70px 20px;
 }
 
 #team{ margin: 0 auto}
@@ -804,7 +802,7 @@ color: #cfcfcf;
  }
 .our-client .overlay > .container
 {
- padding:70px 0px;
+ padding:70px 20px;
 }
 
 #clients .item{
@@ -819,7 +817,7 @@ color: #cfcfcf;
 
 .client-testimonial .container
 {
- padding:70px 0px;
+ padding:70px 20px;
 }
 
 
@@ -844,7 +842,7 @@ color: #cfcfcf;
 ------------------------------*/
 .contact-remsh >.container
 {
-    padding:60px 0px;
+    padding:60px 20px;
 }
 label {
 	float: left;
