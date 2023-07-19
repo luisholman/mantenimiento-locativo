@@ -916,6 +916,12 @@ button.btn.tf-btn.btn-default {
 	color: #ffffff;
 	padding: 20px 0 15px 0;
 }
+
+.footer .container{
+    margin: 30px ;
+    
+}
+
 nav.footer .fnav{ vertical-align: middle;}
 ul.footer-social li{
 	display: inline-block;
