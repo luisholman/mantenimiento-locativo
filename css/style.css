@@ -602,11 +602,11 @@ ul.aboutList li span{
 
 ol.type li{
 	display: inline-block;
-	margin-left: 20px;
+	margin-left: 10px;
 }
 ol.type li:after{
 	content: ' | ';
-	margin-left: 20px;
+	margin-left: 10px;
 }
 ol.type li:last-child:after 
 {
@@ -615,7 +615,7 @@ ol.type li:last-child:after
 ol.type li a
 {
 color: #222;
-font-size:0.8em;
+font-size:1em;
 }
 ol.type li a.active
 {
