@@ -1,0 +1,36 @@
+
+/*para las imagenes*/
+image{
+    height:auto;
+    width:auto;
+    max-height:100px;
+    max-width: 100px;
+    border-radius:3px;
+    margin:10px;
+    }
+  
+  
+    /* añadido*/
+    .cause1 .cause-details1 {
+      text-align: justify;
+      padding: 0 5px;/*estaba en 15*/
+      font-size: 13px;
+      margin-bottom: 15px;
+      min-height: 110px; /*estaba en 115*/
+    }
+  
+    .cause2 .cause-details2 {
+      text-align: justify;
+      padding: 0 5px;/*estaba en 15*/
+      font-size: 13px;
+      margin-bottom: 15px;
+      min-height: 190px; /*estaba en 115*/
+    }
+
+    .enlace{
+      text-decoration:double;
+      font-size: 1.1em;
+      color: rgb(255, 255, 255);
+    }
+
+   
