@@ -348,7 +348,7 @@ content:"";
 position:absolute; 
 top:60px; 
 display:block; 
-width:95%; 
+width:98%; 
 height:90%; 
 top:5px;
 left:50%;
@@ -371,53 +371,55 @@ box-shadow:5px 5px 1px 2px rgba(0,0,0,0.2);
 
 .ramsh-menu ul li:nth-child(1):hover ~ li:last-child::after,.ramsh-menu ul li:nth-child(1):focus ~ li:last-child::after
 {
-    left:-400%;
-    width:5.6em;
+    left:-868%;
+    width:8.9em;
     background:rgba(2, 2, 2, 0.781)
     
 }
 
 .ramsh-menu ul li:nth-child(2):hover ~ li:last-child::after,.ramsh-menu ul li:nth-child(2):focus ~ li:last-child::after
 {
-    left:-304%;
+    left:-714%;
     width:7.9em;
     background:rgba(2, 2, 2, 0.781)
 }
 
 .ramsh-menu ul li:nth-child(3):hover ~ li:last-child::after,.ramsh-menu ul li:nth-child(3):focus ~ li:last-child::after
 {
-    left:-160%;
+    left:-580%;
     width:5.6em;
     background:rgba(2, 2, 2, 0.781)
 }
 
 .ramsh-menu ul li:nth-child(4):hover ~ li:last-child::after,.ramsh-menu ul li:nth-child(4):focus ~ li:last-child::after
 {
-    left:-60%;
+    left:-476%;
     width:6.5em;
     background:rgba(2, 2, 2, 0.781)
 }
 
 .ramsh-menu ul li:nth-child(5):hover ~ li:last-child::after,.ramsh-menu ul li:nth-child(5):focus ~ li:last-child::after
 {
-    left:-180%;
+    left:-358%;
     width:5.6em;
     background:rgba(2, 2, 2, 0.781)
 }
 
 .ramsh-menu ul li:nth-child(6):hover ~ li:last-child::after,.ramsh-menu ul li:nth-child(6):focus ~ li:last-child::after
 {
-    left:-70%;
+    left:-270%;
     width:6.4em;
     background:rgba(2, 2, 2, 0.781)
 }
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 .ramsh-menu ul li:nth-child(7):hover ~ li:last-child::after,.ramsh-menu ul li:nth-child(7):focus ~ li:last-child::after
 {
-    left:-50%;
-    width:1.6em;
-    background:rgba(255, 0, 0, 0.781)
+    left:-158%;
+    width:11.9em;
+    background:rgba(2, 2, 2, 0.781)
 }
+
+
 
 
        
