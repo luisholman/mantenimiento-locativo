@@ -9,17 +9,17 @@ VERSION : 1.1
 
 .themecolor
 {
-    color:#c6fc02;/*Defines the theme color*/
+    color:#3cfc02;/*Defines the theme color*/
 }
 
 .themecoloricon
 {
-    color:#000000;/*Defines the theme color*/
+    color:#575757;/*Defines the theme color*/
 }
 
 .theme_background_color,#downloadbt:hover
 {
-    background-color:#0b6c8a; /*Defines the theme bakcground color*/
+    background-color:#0b6c8a; /*Defines the theme bakcground color  0b6c8a*/
 }
 
 .borderColor
