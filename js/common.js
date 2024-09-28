@@ -150,7 +150,7 @@
         { src: "images/main.jpg" },
         { src: "images/client.jpg" },
         { src: "images/electricidad.jpg" },
-        { src: "images/team.jpg" },
+        { src: "images/paint.jpg" },
         { src: "images/inpermeabilizacion07.jpg" },
         { src: "images/plomeria02.jpg" }
     ],animation: 'kenburns'
